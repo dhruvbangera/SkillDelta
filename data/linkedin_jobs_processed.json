@@ -1,0 +1,1444 @@
+{
+  "jobs": [
+    {
+      "job_title": "Machine Learning Engineer",
+      "company_name": "OpenAI",
+      "job_description": "We are looking for a Machine Learning Engineer to build and deploy ML systems at scale. Must have experience with Python, PyTorch, TensorFlow, and cloud infrastructure like AWS. Knowledge of Docker, Kubernetes, and CI/CD pipelines is required. Experience with REST APIs, microservices architecture, and Agile methodologies.",
+      "skills": [
+        {
+          "skill_id": "microservices",
+          "name": "Microservices",
+          "topics": [
+            "architecture",
+            "distributed systems"
+          ],
+          "resources": [
+            "https://roadmap.sh/system-design",
+            "https://roadmap.sh/system-design/guide"
+          ]
+        },
+        {
+          "skill_id": "kubernetes",
+          "name": "Kubernetes",
+          "topics": [
+            "container orchestration",
+            "devops",
+            "scalability"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "tensorflow",
+          "name": "TensorFlow",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "pytorch",
+          "name": "PyTorch",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "python",
+          "name": "Python",
+          "topics": [
+            "programming language",
+            "backend scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/python",
+            "https://roadmap.sh/python/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "rest",
+          "name": "REST",
+          "topics": [
+            "api",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "ai-engineer",
+          "name": "Ai Engineer",
+          "topics": [
+            "technology",
+            "development"
+          ],
+          "resources": [
+            "https://roadmap.sh"
+          ]
+        },
+        {
+          "skill_id": "cicd",
+          "name": "CI/CD",
+          "topics": [
+            "devops",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Full Stack Developer",
+      "company_name": "Tech Corp",
+      "job_description": "Seeking a Full Stack Developer with expertise in React, Node.js, TypeScript, and PostgreSQL. Must know Docker, AWS, and have experience with GraphQL APIs. Familiarity with Agile/Scrum methodologies required.",
+      "skills": [
+        {
+          "skill_id": "typescript",
+          "name": "TypeScript",
+          "topics": [
+            "programming language",
+            "web development",
+            "type safety"
+          ],
+          "resources": [
+            "https://roadmap.sh/typescript",
+            "https://roadmap.sh/typescript/guide"
+          ]
+        },
+        {
+          "skill_id": "postgresql",
+          "name": "PostgreSQL",
+          "topics": [
+            "database",
+            "sql",
+            "relational database"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "graphql",
+          "name": "GraphQL",
+          "topics": [
+            "api",
+            "query language"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "react",
+          "name": "React",
+          "topics": [
+            "frontend framework",
+            "ui development"
+          ],
+          "resources": [
+            "https://roadmap.sh/react",
+            "https://roadmap.sh/react/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "scrum",
+          "name": "Scrum",
+          "topics": [
+            "methodology",
+            "agile"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "nodejs",
+          "name": "Node.js",
+          "topics": [
+            "backend",
+            "javascript runtime"
+          ],
+          "resources": [
+            "https://roadmap.sh/nodejs",
+            "https://roadmap.sh/nodejs/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Data Scientist",
+      "company_name": "Data Analytics Inc",
+      "job_description": "Looking for a Data Scientist proficient in Python, R, Pandas, NumPy, and scikit-learn. Experience with SQL databases (PostgreSQL, MySQL), cloud platforms (AWS, GCP), and machine learning frameworks (TensorFlow, PyTorch) is essential.",
+      "skills": [
+        {
+          "skill_id": "scikit-learn",
+          "name": "scikit-learn",
+          "topics": [
+            "machine learning",
+            "python",
+            "data science"
+          ],
+          "resources": [
+            "https://roadmap.sh/data-scientist",
+            "https://roadmap.sh/data-scientist/guide"
+          ]
+        },
+        {
+          "skill_id": "postgresql",
+          "name": "PostgreSQL",
+          "topics": [
+            "database",
+            "sql",
+            "relational database"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "tensorflow",
+          "name": "TensorFlow",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "pytorch",
+          "name": "PyTorch",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "python",
+          "name": "Python",
+          "topics": [
+            "programming language",
+            "backend scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/python",
+            "https://roadmap.sh/python/guide"
+          ]
+        },
+        {
+          "skill_id": "pandas",
+          "name": "Pandas",
+          "topics": [
+            "data analysis",
+            "python",
+            "data science"
+          ],
+          "resources": [
+            "https://roadmap.sh/data-scientist",
+            "https://roadmap.sh/data-scientist/guide"
+          ]
+        },
+        {
+          "skill_id": "mysql",
+          "name": "MySQL",
+          "topics": [
+            "database",
+            "sql",
+            "relational database"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "numpy",
+          "name": "NumPy",
+          "topics": [
+            "numerical computing",
+            "python",
+            "data science"
+          ],
+          "resources": [
+            "https://roadmap.sh/data-scientist",
+            "https://roadmap.sh/data-scientist/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "gcp",
+          "name": "GCP",
+          "topics": [
+            "cloud computing",
+            "google",
+            "infrastructure"
+          ],
+          "resources": [
+            "https://roadmap.sh/gcp",
+            "https://roadmap.sh/gcp/guide"
+          ]
+        },
+        {
+          "skill_id": "r",
+          "name": "R",
+          "topics": [
+            "programming language",
+            "data science",
+            "statistics"
+          ],
+          "resources": [
+            "https://roadmap.sh/data-scientist",
+            "https://roadmap.sh/data-scientist/guide"
+          ]
+        },
+        {
+          "skill_id": "ai-engineer",
+          "name": "Ai Engineer",
+          "topics": [
+            "technology",
+            "development"
+          ],
+          "resources": [
+            "https://roadmap.sh"
+          ]
+        },
+        {
+          "skill_id": "sql",
+          "name": "SQL",
+          "topics": [
+            "database",
+            "query language"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "DevOps Engineer",
+      "company_name": "Cloud Services Ltd",
+      "job_description": "DevOps Engineer needed with strong knowledge of Docker, Kubernetes, Jenkins, Terraform, and AWS. Experience with Linux, Bash scripting, CI/CD pipelines, and infrastructure as code required.",
+      "skills": [
+        {
+          "skill_id": "kubernetes",
+          "name": "Kubernetes",
+          "topics": [
+            "container orchestration",
+            "devops",
+            "scalability"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "terraform",
+          "name": "Terraform",
+          "topics": [
+            "infrastructure as code",
+            "devops",
+            "cloud"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "jenkins",
+          "name": "Jenkins",
+          "topics": [
+            "ci/cd",
+            "automation",
+            "devops"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "linux",
+          "name": "Linux",
+          "topics": [
+            "operating system",
+            "system administration"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "bash",
+          "name": "Bash",
+          "topics": [
+            "shell scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "cicd",
+          "name": "CI/CD",
+          "topics": [
+            "devops",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Frontend Developer",
+      "company_name": "Web Solutions",
+      "job_description": "Frontend Developer position requiring React, TypeScript, JavaScript, HTML, CSS. Experience with Next.js, REST APIs, and modern frontend development practices. Knowledge of Git and Agile methodologies.",
+      "skills": [
+        {
+          "skill_id": "javascript",
+          "name": "JavaScript",
+          "topics": [
+            "programming language",
+            "web development",
+            "frontend"
+          ],
+          "resources": [
+            "https://roadmap.sh/javascript",
+            "https://roadmap.sh/javascript/guide"
+          ]
+        },
+        {
+          "skill_id": "typescript",
+          "name": "TypeScript",
+          "topics": [
+            "programming language",
+            "web development",
+            "type safety"
+          ],
+          "resources": [
+            "https://roadmap.sh/typescript",
+            "https://roadmap.sh/typescript/guide"
+          ]
+        },
+        {
+          "skill_id": "nextjs",
+          "name": "Next.js",
+          "topics": [
+            "frontend framework",
+            "react framework",
+            "ssr"
+          ],
+          "resources": [
+            "https://roadmap.sh/react",
+            "https://roadmap.sh/react/guide"
+          ]
+        },
+        {
+          "skill_id": "react",
+          "name": "React",
+          "topics": [
+            "frontend framework",
+            "ui development"
+          ],
+          "resources": [
+            "https://roadmap.sh/react",
+            "https://roadmap.sh/react/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "rest",
+          "name": "REST",
+          "topics": [
+            "api",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "git",
+          "name": "Git",
+          "topics": [
+            "version control",
+            "source control"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "company_name": "OpenAI",
+      "job_description": "We are looking for a Machine Learning Engineer to build and deploy ML systems at scale. Must have experience with Python, PyTorch, TensorFlow, and cloud infrastructure like AWS. Knowledge of Docker, Kubernetes, and CI/CD pipelines is required. Experience with REST APIs, microservices architecture, and Agile methodologies.",
+      "skills": [
+        {
+          "skill_id": "microservices",
+          "name": "Microservices",
+          "topics": [
+            "architecture",
+            "distributed systems"
+          ],
+          "resources": [
+            "https://roadmap.sh/system-design",
+            "https://roadmap.sh/system-design/guide"
+          ]
+        },
+        {
+          "skill_id": "kubernetes",
+          "name": "Kubernetes",
+          "topics": [
+            "container orchestration",
+            "devops",
+            "scalability"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "tensorflow",
+          "name": "TensorFlow",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "pytorch",
+          "name": "PyTorch",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "python",
+          "name": "Python",
+          "topics": [
+            "programming language",
+            "backend scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/python",
+            "https://roadmap.sh/python/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "rest",
+          "name": "REST",
+          "topics": [
+            "api",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "ai-engineer",
+          "name": "Ai Engineer",
+          "topics": [
+            "technology",
+            "development"
+          ],
+          "resources": [
+            "https://roadmap.sh"
+          ]
+        },
+        {
+          "skill_id": "cicd",
+          "name": "CI/CD",
+          "topics": [
+            "devops",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "company_name": "OpenAI",
+      "job_description": "We are looking for a Machine Learning Engineer to build and deploy ML systems at scale. Must have experience with Python, PyTorch, TensorFlow, and cloud infrastructure like AWS. Knowledge of Docker, Kubernetes, and CI/CD pipelines is required. Experience with REST APIs, microservices architecture, and Agile methodologies.",
+      "skills": [
+        {
+          "skill_id": "microservices",
+          "name": "Microservices",
+          "topics": [
+            "architecture",
+            "distributed systems"
+          ],
+          "resources": [
+            "https://roadmap.sh/system-design",
+            "https://roadmap.sh/system-design/guide"
+          ]
+        },
+        {
+          "skill_id": "kubernetes",
+          "name": "Kubernetes",
+          "topics": [
+            "container orchestration",
+            "devops",
+            "scalability"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "tensorflow",
+          "name": "TensorFlow",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "pytorch",
+          "name": "PyTorch",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "python",
+          "name": "Python",
+          "topics": [
+            "programming language",
+            "backend scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/python",
+            "https://roadmap.sh/python/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "rest",
+          "name": "REST",
+          "topics": [
+            "api",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "ai-engineer",
+          "name": "Ai Engineer",
+          "topics": [
+            "technology",
+            "development"
+          ],
+          "resources": [
+            "https://roadmap.sh"
+          ]
+        },
+        {
+          "skill_id": "cicd",
+          "name": "CI/CD",
+          "topics": [
+            "devops",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "company_name": "OpenAI",
+      "job_description": "We are looking for a Machine Learning Engineer to build and deploy ML systems at scale. Must have experience with Python, PyTorch, TensorFlow, and cloud infrastructure like AWS. Knowledge of Docker, Kubernetes, and CI/CD pipelines is required. Experience with REST APIs, microservices architecture, and Agile methodologies.",
+      "skills": [
+        {
+          "skill_id": "microservices",
+          "name": "Microservices",
+          "topics": [
+            "architecture",
+            "distributed systems"
+          ],
+          "resources": [
+            "https://roadmap.sh/system-design",
+            "https://roadmap.sh/system-design/guide"
+          ]
+        },
+        {
+          "skill_id": "kubernetes",
+          "name": "Kubernetes",
+          "topics": [
+            "container orchestration",
+            "devops",
+            "scalability"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "tensorflow",
+          "name": "TensorFlow",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "pytorch",
+          "name": "PyTorch",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "python",
+          "name": "Python",
+          "topics": [
+            "programming language",
+            "backend scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/python",
+            "https://roadmap.sh/python/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "rest",
+          "name": "REST",
+          "topics": [
+            "api",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "ai-engineer",
+          "name": "Ai Engineer",
+          "topics": [
+            "technology",
+            "development"
+          ],
+          "resources": [
+            "https://roadmap.sh"
+          ]
+        },
+        {
+          "skill_id": "cicd",
+          "name": "CI/CD",
+          "topics": [
+            "devops",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "company_name": "OpenAI",
+      "job_description": "We are looking for a Machine Learning Engineer to build and deploy ML systems at scale. Must have experience with Python, PyTorch, TensorFlow, and cloud infrastructure like AWS. Knowledge of Docker, Kubernetes, and CI/CD pipelines is required. Experience with REST APIs, microservices architecture, and Agile methodologies.",
+      "skills": [
+        {
+          "skill_id": "microservices",
+          "name": "Microservices",
+          "topics": [
+            "architecture",
+            "distributed systems"
+          ],
+          "resources": [
+            "https://roadmap.sh/system-design",
+            "https://roadmap.sh/system-design/guide"
+          ]
+        },
+        {
+          "skill_id": "kubernetes",
+          "name": "Kubernetes",
+          "topics": [
+            "container orchestration",
+            "devops",
+            "scalability"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "tensorflow",
+          "name": "TensorFlow",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "pytorch",
+          "name": "PyTorch",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "python",
+          "name": "Python",
+          "topics": [
+            "programming language",
+            "backend scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/python",
+            "https://roadmap.sh/python/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "rest",
+          "name": "REST",
+          "topics": [
+            "api",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "ai-engineer",
+          "name": "Ai Engineer",
+          "topics": [
+            "technology",
+            "development"
+          ],
+          "resources": [
+            "https://roadmap.sh"
+          ]
+        },
+        {
+          "skill_id": "cicd",
+          "name": "CI/CD",
+          "topics": [
+            "devops",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    },
+    {
+      "job_title": "Machine Learning Engineer",
+      "company_name": "OpenAI",
+      "job_description": "We are looking for a Machine Learning Engineer to build and deploy ML systems at scale. Must have experience with Python, PyTorch, TensorFlow, and cloud infrastructure like AWS. Knowledge of Docker, Kubernetes, and CI/CD pipelines is required. Experience with REST APIs, microservices architecture, and Agile methodologies.",
+      "skills": [
+        {
+          "skill_id": "microservices",
+          "name": "Microservices",
+          "topics": [
+            "architecture",
+            "distributed systems"
+          ],
+          "resources": [
+            "https://roadmap.sh/system-design",
+            "https://roadmap.sh/system-design/guide"
+          ]
+        },
+        {
+          "skill_id": "kubernetes",
+          "name": "Kubernetes",
+          "topics": [
+            "container orchestration",
+            "devops",
+            "scalability"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "tensorflow",
+          "name": "TensorFlow",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "pytorch",
+          "name": "PyTorch",
+          "topics": [
+            "deep learning",
+            "machine learning frameworks"
+          ],
+          "resources": [
+            "https://roadmap.sh/ai-engineer",
+            "https://roadmap.sh/ai-engineer/guide"
+          ]
+        },
+        {
+          "skill_id": "python",
+          "name": "Python",
+          "topics": [
+            "programming language",
+            "backend scripting",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/python",
+            "https://roadmap.sh/python/guide"
+          ]
+        },
+        {
+          "skill_id": "docker",
+          "name": "Docker",
+          "topics": [
+            "containerization",
+            "devops",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "agile",
+          "name": "Agile",
+          "topics": [
+            "methodology",
+            "project management"
+          ],
+          "resources": [
+            "https://roadmap.sh/software-architect",
+            "https://roadmap.sh/software-architect/guide"
+          ]
+        },
+        {
+          "skill_id": "rest",
+          "name": "REST",
+          "topics": [
+            "api",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        },
+        {
+          "skill_id": "aws",
+          "name": "AWS",
+          "topics": [
+            "cloud computing",
+            "infrastructure",
+            "deployment"
+          ],
+          "resources": [
+            "https://roadmap.sh/aws",
+            "https://roadmap.sh/aws/guide"
+          ]
+        },
+        {
+          "skill_id": "ai-engineer",
+          "name": "Ai Engineer",
+          "topics": [
+            "technology",
+            "development"
+          ],
+          "resources": [
+            "https://roadmap.sh"
+          ]
+        },
+        {
+          "skill_id": "cicd",
+          "name": "CI/CD",
+          "topics": [
+            "devops",
+            "automation"
+          ],
+          "resources": [
+            "https://roadmap.sh/devops",
+            "https://roadmap.sh/devops/guide"
+          ]
+        },
+        {
+          "skill_id": "api-development",
+          "name": "API Development",
+          "topics": [
+            "backend",
+            "web services"
+          ],
+          "resources": [
+            "https://roadmap.sh/backend",
+            "https://roadmap.sh/backend/guide"
+          ]
+        }
+      ]
+    }
+  ]
+}
