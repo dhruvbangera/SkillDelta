@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* SkillDelta Color Scheme */
+    --background: 0 0% 98%; /* #f9fafb - Light off-white background */
+    --foreground: 208 35% 15%; /* #001f3f - Dark navy blue */
+
+    --muted: 210 7% 85%; /* #d1d5db - Light gray */
+    --muted-foreground: 210 4% 40%; /* #555555 - Muted charcoal */
+    --muted-foreground-light: 210 4% 40% / 0.6; /* Lighter muted text */
+    --muted-foreground-dark: 210 4% 40% / 0.8; /* Darker muted text */
+
+    --card: 0 0% 100% / 0.95; /* White cards with slight transparency */
+    --card-foreground: 208 35% 15%; /* Dark navy blue text on cards */
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 208 35% 15%;
+
+    /* Primary Accent: SkillDelta Cyan */
+    --primary: 186 100% 50%; /* #00b8d4 - Bright cyan/turquoise */
+    --primary-foreground: 208 35% 15%; /* Dark navy on cyan buttons */
+    --primary-dark: 186 100% 45%; /* Darker cyan for hover states */
+    --primary-light: 186 100% 70%; /* Lighter cyan for subtle accents */
+
+    /* Secondary Accent: Navy Blue Buttons */
+    --secondary: 208 35% 15%; /* #001f3f - Dark navy blue */
+    --secondary-foreground: 0 0% 100%; /* White text on navy buttons */
+
+    --accent: 186 100% 50%; /* Cyan accent for highlights */
+    --accent-foreground: 208 35% 15%; /* Navy text on cyan backgrounds */
+
+    --border: 210 7% 85% / 0.4; /* Subtle light gray borders */
+    --border-light: 210 7% 85% / 0.2; /* Very light borders */
+    --border-dark: 210 7% 85% / 0.6; /* Darker borders */
+
+    --ring: 186 100% 50%; /* Cyan ring for focus states */
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
